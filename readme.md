@@ -1,4 +1,4 @@
-#my-bot
+my-bot
 
 just a rubbish bot
 
